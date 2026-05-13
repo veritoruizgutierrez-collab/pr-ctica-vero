@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Control de medicamentos",
+        "categoria": "Salud",
+        "descripcion": "Registro y seguimiento de medicamentos.",
+        "responsable": "Personal de enfermería",
+        "imagen": "img/controldemedicamentos.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Terapia física",
+        "categoria": "Rehabilitación",
+        "descripcion": "Ejercicios para mejorar movilidad y fuerza.",
+        "responsable": "Fisioterapeuta",
+        "imagen": "img/controldemedicamentos.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Alimentación balanceada",
+        "categoria": "Nutrición",
+        "descripcion": "Plan alimenticio saludable para adultos mayores.",
+        "responsable": "Nutricionista",
+        "imagen": "img/controldemedicamentos.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Actividades recreativas",
+        "categoria": "Recreación",
+        "descripcion": "Juegos, música y dinámicas grupales.",
+        "responsable": "Personal recreativo",
+        "imagen": "img/controldemedicamentos.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Atención psicológica",
+        "categoria": "Salud emocional",
+        "descripcion": "Apoyo psicológico y emocional para adultos mayores.",
+        "responsable": "Psicólogo",
+        "imagen": "img/controldemedicamentos.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Consulta médica",
+        "categoria": "Salud",
+        "descripcion": "Chequeos médicos generales periódicos.",
+        "responsable": "Médico general",
+        "imagen": "img/controldemedicamentos.jpg"
+    }
+]
