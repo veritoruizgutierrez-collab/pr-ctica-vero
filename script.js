@@ -11,7 +11,7 @@ const servicios = [
         categoria: "Salud",
         descripcion: "Registro y seguimiento de medicamentos.",
         responsable: "Personal de enfermería",
-        imagen: "img/controldemedicamentos.jpg"
+        imagen: "controldemedicamentos.jpg"
     },
 
     {
@@ -20,7 +20,7 @@ const servicios = [
         categoria: "Rehabilitación",
         descripcion: "Ejercicios para mejorar movilidad.",
         responsable: "Fisioterapeuta",
-        imagen: "img/terapiafisica.jpg"
+        imagen: "terapiafisica.jpg"
     },
 
     {
@@ -29,7 +29,7 @@ const servicios = [
         categoria: "Nutrición",
         descripcion: "Plan alimenticio saludable.",
         responsable: "Nutricionista",
-        imagen: "img/alimentacionbalanciada.jpg"
+        imagen: "alimentacionbalanciada.jpg"
     },
 
     {
@@ -38,7 +38,7 @@ const servicios = [
         categoria: "Recreación",
         descripcion: "Juegos y actividades grupales.",
         responsable: "Personal recreativo",
-        imagen: "img/actividadesrecreativas.jpg"
+        imagen: "actividadesrecreativas.jpg"
     },
 
     {
@@ -47,7 +47,7 @@ const servicios = [
         categoria: "Salud emocional",
         descripcion: "Apoyo emocional y psicológico.",
         responsable: "Psicólogo",
-        imagen: "img/atencionpsicologica.jpg"
+        imagen: "atencionpsicologica.jpg"
     },
 
     {
@@ -56,7 +56,7 @@ const servicios = [
         categoria: "Salud",
         descripcion: "Chequeos médicos periódicos.",
         responsable: "Médico general",
-        imagen: "img/consultamedica.jpg"
+        imagen: "consultamedica.jpg"
     }
 ];
 
